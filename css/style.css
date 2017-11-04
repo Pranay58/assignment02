@@ -1,0 +1,53 @@
+body{
+	background: gray;
+	margin: 0;
+	padding: 0;
+}
+
+.main-box{
+	    background: #f9c579;
+    height: 600px;
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.header-box{
+	    background: white;
+    width: 100%;
+    height: 80px;
+}
+.logo{
+	width: 20%;
+	height: 77px;
+	background: #f9d467;
+	float: left;	
+}
+.menu{
+	width: 80%;
+	height: 77px;
+	background: #e48b06;
+	float: right;
+}
+.content-box{
+	background: white;
+	width: 100%;
+	height: 420px;
+}
+.content{
+	background: #ab943f;
+	width: 65%;
+	height: 420px;
+	float: left;
+}
+.sidebar{
+	background: #fd7f4c;
+	width: 35%;
+	height: 420px;
+	float: right;
+} 
+.footer-box{
+	background: #fbcd42;
+	width: 100%;
+	height: 100px;
+}
+
